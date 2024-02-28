@@ -12,7 +12,7 @@ example repo for the adc course on feb 27, 2024.
 
 - authored by Katie Bennett, PhD student at Université de Montréal
 - contact at test.email@example.com
-- co-authored by Pedro Freitas, PhD at University of Lisbon
+- co-authored by Pedro Freitas, PhD at University of Lisbon; Isabella Chittumuri, PhD student at Colorado School of Mines
 - contact information: pedro-freitas@edu.ulisboa.pt
 
 ## Project
