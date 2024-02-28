@@ -5,6 +5,8 @@ example repo for the adc course on feb 27, 2024.
 
 - create a remote repository on GitHub
 - practice Git workflow
+- practice working collaboratively with the git workflow
+- gain experience with the git workflow
 
 ## Creator
 
